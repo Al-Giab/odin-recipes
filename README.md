@@ -1,0 +1,1 @@
+# odin-recipes project entails creating a very bare website containing an index page that will have links to recipes. This project test my ability to navigate github aswell as my ability to create a bare bones html website using the infromation I have leard thus far
